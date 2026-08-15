@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-teal-deep: #064e5c;
+  --color-teal: #60aba8;
+  --color-teal-light: #d9eaea;
+  --color-teal-border: #8ec3c1;
+  --color-card-bg: #f6f8fc;
+  --font-poppins: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-charon: "Iosevka Charon", "Poppins", ui-sans-serif, system-ui, sans-serif;
+}
